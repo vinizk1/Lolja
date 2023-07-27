@@ -1,1 +1,1 @@
-# Lolja
+# Loja-de-guitarra
