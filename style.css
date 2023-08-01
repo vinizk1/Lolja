@@ -1,12 +1,10 @@
 header {
-	background: rgb(131,58,180);
-background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+	background: rgb(86, 86, 87);
 	padding: 20px 0;
 }
 
 main{
-	background: rgb(253,29,29);
-background: linear-gradient(90deg, rgba(253,29,29,1) 15%, rgba(214,235,34,1) 52%, rgba(69,252,75,1) 100%);
+	background: rgb(255, 255, 255);
 }
 
 .caixa {
@@ -85,8 +83,7 @@ nav a:hover {
 }
 
 footer {
-	background: rgb(238,174,202);
-	background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+	background: rgb(26, 25, 25);
 	text-align: center;
 	padding: 40px 0;
 }
@@ -156,3 +153,14 @@ td, th {
     border: 1px solid #000000;
     padding: 8px 15px;
 }
+/*css da pagina inicial*/ 
+.banner {
+	width: 100;
+}
+
+.titulo-principal {
+	text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+}
+

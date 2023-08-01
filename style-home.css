@@ -9,16 +9,14 @@ body{
 	background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(189,25,25,1) 42%, rgba(140,22,22,1) 100%);
 }
 
-.principal{
-	background: #000000;
-	padding: 30px;
-	color:antiquewhite;
+.principal p {
+	margin: 0 0 1em;
 }
 
 .titulo-principal {
-	padding-left: 20px;
 	text-align: center;
-	color: #FF0000;
+    font-size: 2em;
+    margin: 0 0 1em;
 }
 
 .titulo-centralizado {
