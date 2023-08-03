@@ -190,4 +190,25 @@ td, th {
 
 .imagembeneficios {
 	width: 30%;
+	display: flex;
+	text-align: center;
+}
+
+.mapa {
+	padding: 3em 0;
+	text-align: center;
+}
+
+.mapa p {
+	padding: 0 0 2em;
+	text-align: center;
+}
+
+.img-zap {
+	display: flex;
+	justify-content: center;
+}
+
+.titulo-donos {
+	text-align: center;
 }
