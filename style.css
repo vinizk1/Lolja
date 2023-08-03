@@ -1,3 +1,8 @@
+body {
+	font-family: 'Caveat', cursive;
+	font-family: 'Signika Negative', sans-serif;
+}
+
 header {
 	background: rgb(86, 86, 87);
 	padding: 20px 0;
@@ -162,5 +167,27 @@ td, th {
 	text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
+	clear: left;
 }
 
+.principal p {
+	margin: 0 0 1em;
+}
+
+.principal strong {
+	font-weight: bold;
+}
+
+.principal em {
+	font-style: italic;
+}
+
+.utensilios {
+	width: 150px;
+	float: left;
+	margin: 0 20px 20px 0;
+}
+
+.imagembeneficios {
+	width: 30%;
+}
